@@ -1,4 +1,5 @@
 Tech Interview Preparation Meetup
+---------------------------------
 
 Pitch: Algorithm based, timed problem solving on a white-board to test your readiness for interview.
 
