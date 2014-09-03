@@ -1,8 +1,9 @@
 #Array Problems [Easy]
 
-Shuffle
+###Shuffle
 Without using a shuffle or sort write your own shuffle method for an array. The method will take an array and returns a new array with all of the elements in a random order. One important property of a good shuffle method is that every permutation is equally likely.
-Sort Array
+
+###Sort Array
 Given a size n array that contains all integers from 0 to n-1. The elements are in random order, how do you sort it? 
 Find Missing Integer
 An N sized array contains integers starting from 1. Find the first missing integer. For example, in [4, 1, 3, 2, 6] the first missing integer is 5. 
@@ -10,7 +11,7 @@ Hint. You can sort the array and find the missing number in O(n log n). How do y
 Shifting Array
 Shift an array by k places. 
 
-Counting
+###Counting
 Given a sorted array of 0’s and 1’s. Find out the no. of 0’s in it. Write recursive, iterative versions of the code. [Binary search]
 
 
