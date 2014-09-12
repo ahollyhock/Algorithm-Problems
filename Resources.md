@@ -53,3 +53,15 @@ In evaluating thousands of hiring packets at Google, I have only once seen a can
 + **Type your paper code as-is into a computer**. You will probably make a bunch of mistakes. Start a list of all the errors you make so that you can keep these in mind in the real interview.
 
 In addition, mock interviews are extremely useful. CareerCup.com offers mock interviews with actual Microsoft, Google and Amazon employees, but you can also practice with friends. You and your friend can trade giving each other mock interviews. Though your friend may not be an expert interviewer, he or she may still be able to walk you through a coding or algorithm problem.
+
+##What do you need to know
+
+|Data Structures|Algorithms|Concepts|
+|---|---|---|
+|Linked Lists|Breadth First Search|Bit Manipulation|
+|Binary Trees|Depth First Search|Singleton Design Pattern|
+|Tries|Binary Search|Factory Design Pattern|
+|Stacks|Merge Sort|Memory (Stack Vs. Heap)|
+|Queues|Quick Sort|Recursion|
+|Vectors/ArrayList|Tree Insert/Find|Big-O Time and Space|
+|Hash Tables| | |
