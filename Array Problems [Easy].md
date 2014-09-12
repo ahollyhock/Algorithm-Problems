@@ -15,6 +15,6 @@ Shift an array by k places.
 ###Counting
 Given a sorted array of 0’s and 1’s. Find out the no. of 0’s in it. Write recursive, iterative versions of the code. [Binary search]
 
-
-Write a function that accepts an n-dimension array and prints values for array of any dimension. What is the layout of multi-dimensional array in the memory? [array of arrays, linearly aligned in memory http://www.fredosaurus.com/notes-cpp/arrayptr/23two-dim-array-memory-layout.html ]
+###Print Array
+Write a function that accepts an n-dimension array and prints values for array of any dimension. What is the layout of multi-dimensional array in the memory? [array of arrays, linearly aligned in memory http://www.fredosaurus.com/notes-cpp/arrayptr/23two-dim-array-memory-layout.html]
 
