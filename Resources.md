@@ -19,3 +19,10 @@ In an on-site interview round, you usually have 4 to 6 in-person interviews. One
 
 Afterwards, the interviewers meet to discuss your performance and/or submit written feedback. At most companies, your recruiter should respond to you within a week with an update on your status.
 If you have waited more than a week, you should follow up with your recruiter.
+
+##The Evaluation Process
+Most recruiters will tell you that candidates are evaluated on four aspects: **prior experience, culture fit, coding skills, and analytical ability**.
+What this means for you is the following:
++ If people often perceive you as arrogant or argumentative or defensive, or with any other nasty adjectives, keep an eye on this behavior in an interview. Even an otherwise superstar candidate may get rejected if people don't want to work with them.
++ Spend some time preparing for questions about your resume. It's not the most important factor, but it matters. Even a little bit of time here can help you improve in major ways. It's a great "bang for your buck."
++ Focus mainly on coding and algorithm questions.
