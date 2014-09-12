@@ -30,5 +30,18 @@ What this means for you is the following:
 ##Incorrect Answers
 One of the most pervasive and dangerous rumors is that candidates need to get every question right. That's not even close to true.
 First, responses to interview questions shouldn't be thought of as"correct" or "incorrect." When I evaluate how someone performed in an interview, I never ask myself, how many questions did they get right? Rather, it's about how optimal your final solution was, how long it took you to get there, and how clean your code was. It's not a binary right vs. wrong; there are a range of factors.
+
 Second, your performance is evaluated in comparison to other candidates. For example, if you solve a question optimally in 15 minutes, and someone else solves an easier question in five minutes, did that person do better than you? Maybe, but maybe not. If you are asked really easy questions, then you might be expected to get optimal solutions really quickly. But if the questions are hard, then a number of mistakes are expected.
 In evaluating thousands of hiring packets at Google, I have only once seen a candidate have a "flawless"set of interviews. Everyone else, including the hundreds who got offers, made mistakes.
+
+##Top 10 mistakes
++ Practicing on a Computer
++ Not Rehearsing Behavioral Questions
++ Not Doing a Mock Interview
++ Trying to Memorize Solutions
++ Not Solving ProblemsOut Loud
++ Rushing
++ SloppyCoding
++ Not Testing
++ Fixing Mistakes Carelessly
++ Giving Up
