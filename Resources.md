@@ -26,3 +26,9 @@ What this means for you is the following:
 + If people often perceive you as arrogant or argumentative or defensive, or with any other nasty adjectives, keep an eye on this behavior in an interview. Even an otherwise superstar candidate may get rejected if people don't want to work with them.
 + Spend some time preparing for questions about your resume. It's not the most important factor, but it matters. Even a little bit of time here can help you improve in major ways. It's a great "bang for your buck."
 + Focus mainly on coding and algorithm questions.
+
+##Incorrect Answers
+One of the most pervasive and dangerous rumors is that candidates need to get every question right. That's not even close to true.
+First, responses to interview questions shouldn't be thought of as"correct" or "incorrect." When I evaluate how someone performed in an interview, I never ask myself, how many questions did they get right? Rather, it's about how optimal your final solution was, how long it took you to get there, and how clean your code was. It's not a binary right vs. wrong; there are a range of factors.
+Second, your performance is evaluated in comparison to other candidates. For example, if you solve a question optimally in 15 minutes, and someone else solves an easier question in five minutes, did that person do better than you? Maybe, but maybe not. If you are asked really easy questions, then you might be expected to get optimal solutions really quickly. But if the questions are hard, then a number of mistakes are expected.
+In evaluating thousands of hiring packets at Google, I have only once seen a candidate have a "flawless"set of interviews. Everyone else, including the hundreds who got offers, made mistakes.
