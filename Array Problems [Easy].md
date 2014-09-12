@@ -8,7 +8,8 @@ Given a size n array that contains all integers from 0 to n-1. The elements are 
 Find Missing Integer
 An N sized array contains integers starting from 1. Find the first missing integer. For example, in [4, 1, 3, 2, 6] the first missing integer is 5. 
 Hint. You can sort the array and find the missing number in O(n log n). How do you do better? 
-Shifting Array
+
+###Shifting Array
 Shift an array by k places. 
 
 ###Counting
