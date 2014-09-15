@@ -8,28 +8,47 @@ Given this, one simple optimization we can make to this problem is to automatica
 Our first solution is to create an array of boolean values, where the flag at index **i** indicates whether character i in the alphabet is contained in the string. If you run across this character a second time, you can immediately return **false**.
 The code below implements this algorithm.
 
-<p><code>
+```
 
-public boolean isUniqueChars2(String str) {
+public boolean isUniqueChars2(String str) 
+{
   if (str.lengthQ > 256)
     return false;
   
   boolean[] char_set = new boolean[256]; 
-  for (int1 = 0; i < str.lengthQ; i++) {
+  for (int1 = 0; i < str.lengthQ; i++) 
+  {
     int val = str.charAt(i);
-    if (char_set[val]) { // Already found this char in string
+    if (char_set[val]) 
+    { // Already found this char in string
       return false;
     }
     char_set[val] = true;
   }
   return true;
 }
-</code></p>
+```
 
-The time complexity for this code is <code> O(n) </code>, where n is the length of the string. The space complexity is <code>O(1)</code>.
-Wecanreduceour spaceusagebyafactorofeight byusingabit vector.Wewillassume, in the below code, that the string only uses the lowercase letters a through z. This will allow us to use just a single in t.
-1 public boolean isUniqueChars(String str) {
-2 3 4 5 6
-int checker = 0;
-for (int 1=0; i < str.length(); i++) {
-int val = str.charAt(i) - 'a j;
+The time complexity for this code is <code> O(n) </code>, where `n` is the length of the string. The space complexity is <code>O(1)</code>.
+We can reduce our space usage by a factor of eight by using a bit vector. We will assume, in the below code, that the string only uses the lowercase letters <code>a</code> through `z`. This will allow us to use just `a` single `int`.
+```
+public boolean isUniqueChars(String str) 
+{
+  int checker = 0;
+  for (int 1=0; i < str.length(); i++) 
+  {
+    int val = str.charAt(i) - 'a';
+    if((checker & ( 1 « val)) > 0)
+    { 
+      return false;
+    }
+    checker |= (1 « val);
+  }
+  return true;
+}
+```
+Alternatively, we could do the following:
+
+1. Compare every character of the string to every other character of the string. This will take `O(n2)` time and `O(1)` space.
+2. If we are allowed to modify the input string, we could sort the string in `O(n log(n))` time and then linearly check the string for neighboring characters that are identical. Careful, though: many sorting algorithms take up extra space.
+These solutions are not as optimal in some respects, but might be better depending on the constraints of the problem.
