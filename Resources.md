@@ -7,6 +7,9 @@
 #Javascript Interview Problems
 *[http://www.toptal.com/javascript/interview-questions#](http://www.toptal.com/javascript/interview-questions#)
 
+#Video on how to whiteboard?
+*[https://www.youtube.com/watch?v=aClxtDcdpsQ#](https://www.youtube.com/watch?v=aClxtDcdpsQ#)
+
 #Excerpts from the book 'Cracking the Coding Interview'
 
 ##The interview process
